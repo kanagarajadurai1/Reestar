@@ -25,27 +25,19 @@ This website represents a modern restaurant landing page with featured dishes, c
 **************
 
 🔹 HTML5 – Semantic and accessible structure
+
 🔹 CSS3 – Styling, layout design, and visual enhancement
 
 ****************
-
-📂 Project Structure
+📂 Project Structure:
+****************
 Reestar/
 │── index.html
 │── style.css
 │── images/
 🎯 Project Objective
-
 ****************
 
-
-The primary objectives of this project are to:
-
-🚀 Strengthen core frontend development fundamentals
-📚 Practice semantic HTML structuring
-🎯 Improve CSS layout design and visual hierarchy
-🏗️ Build a real-world restaurant landing page concept
-💼 Develop professional UI presentation skills
 
 Link:
 
